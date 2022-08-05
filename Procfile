@@ -1,1 +1,1 @@
-web: gunicorn notesapp.wsgi --log-file -
+web: gunicorn indigo.wsgi --log-file -
